@@ -1,0 +1,5 @@
+A-j. Eight bytes walk into a bar.  The bartender, #name, asks, “Can I get you anything?”  “Yeah,” reply the bytes.  “Make us a double.” 
+B-j. Why did programmer #name always mix up Halloween and Christmas? Because Oct 31 == Dec 25!
+C-j. If you put a million monkeys named #name at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+D-j. #name asked how many prolog programmers does it take to change a lightbulb? Yes.
+E-j. Why did the programmer #name quit his job? Because he didn't get arrays!

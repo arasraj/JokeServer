@@ -1,0 +1,5 @@
+A-p. Fast, fat computers breed slow, lazy programmers say #name
+B-p. The goal of Computer Science as by #name, is to build something that will last at least until we've finished building it
+C-p. #name says for every 25 percent increase in problem complexity, there is a 100 percent increase in solution complexity.
+D-p. Inside every well-written large program is a well-written small program written by #name.
+E-p. Measuring the programming progress of #name by lines of code is like measuring aircraft building progress by weight.
